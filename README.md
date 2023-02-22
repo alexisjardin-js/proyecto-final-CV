@@ -1,5 +1,5 @@
 ﻿# Curriculum-viate
- proyecto final Primeros pasos del desarrollo frontend.
+ 
  # detalles:
  -se genero funcionalidad del tema Dark con js y css.
  #
